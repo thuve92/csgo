@@ -1,0 +1,11 @@
+span {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: red;
+    text-decoration: underline;
+    text-decoration-color: black;
+}   
+.fitte {
+    text-decoration: underline;
+    font-size: 25px;
+}
